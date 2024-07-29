@@ -13,5 +13,6 @@ public class evenOddCheck {
         else {
             System.out.println("odd");
         }
+        scan.close();
     }
 }
